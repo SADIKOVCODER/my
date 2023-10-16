@@ -53,7 +53,7 @@ class PMBLMod(loader.Module):
     """Bans and reports incoming messages from unknown users"""
 
     strings = {
-        "name": "PMBL",
+        "name": "MsSecure7",
         "state": (
             "<emoji document_id=5314803591058301611>🛡</emoji> <b>PM->BL is now"
             " {}</b>\n<i>Report spam? - {}\nDelete dialog? - {}</i>"
