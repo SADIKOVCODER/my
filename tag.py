@@ -3,9 +3,9 @@
 # ( o.o )  🔓 Not licensed.
 #  > ^ <   ⚠️ Owner of heta.hikariatama.ru doesn't take any responsibilities or intellectual property rights regarding this script
 # ---------------------------------------------------------------------------------
-# Name: tags
-# Description: Secretly tag a user
-# Author: GeekTG
+# Name: Tag Users
+# Description: Tag Users by: @Sadiikovv
+# Author: Murodjon Sodikov
 # Commands:
 # .tag | .tagall
 # ---------------------------------------------------------------------------------
@@ -13,7 +13,7 @@
 
 # -*- coding: utf-8 -*-
 
-# Module author: @ftgmodulesbyfl1yd
+# Module author: @sodibio
 
 import random
 
