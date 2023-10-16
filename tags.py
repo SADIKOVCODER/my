@@ -1,14 +1,8 @@
-# ---------------------------------------------------------------------------------
-#  /\_/\  🌐 This module was loaded through https://t.me/hikkamods_bot
-# ( o.o )  🔓 Not licensed.
-#  > ^ <   ⚠️ Owner of heta.hikariatama.ru doesn't take any responsibilities or intellectual property rights regarding this script
-# ---------------------------------------------------------------------------------
 # Name: Tag Users
 # Description: Tag Users by: @Sadiikovv
 # Author: Murodjon Sodikov
 # Commands:
 # .tag | .tagall
-# ---------------------------------------------------------------------------------
 
 
 # -*- coding: utf-8 -*-
