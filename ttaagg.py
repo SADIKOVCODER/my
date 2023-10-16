@@ -16,9 +16,9 @@ from .. import loader, utils
 
 @loader.tds
 class TagMod(loader.Module):
-    """Secretly tag a user"""
+    """Tag Users by: @Sadiikovv"""
 
-    strings = {"name": "Tags"}
+    strings = {"name": "Tag Users"}
 
     async def tagcmd(self, message):
         """.tag <@> <text> <text>."""
